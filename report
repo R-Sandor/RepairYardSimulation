@@ -1,0 +1,1869 @@
+---------------------------------------------------
+day: 0
+Vehicle: 0 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 28
+
+Vehicle: 1 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 61
+
+Vehicle: 2 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 16
+
+Vehicle: 3 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 41
+
+Vehicle: 4 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 65
+
+Vehicle: 5 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 10
+
+Vehicle: 6 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 15
+
+Vehicle: 7 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 13
+
+Vehicle: 8 has status: being stripped for parts and thrown away.
+type: 0 vehicle
+Repair Time: 6
+
+Vehicle: 9 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 15
+
+Vehicle: 10 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 32
+
+Vehicle: 11 has status: being stripped for parts and thrown away.
+type: 0 vehicle
+Repair Time: 6
+
+Vehicle: 12 has status: being stripped for parts and thrown away.
+type: 0 vehicle
+Repair Time: 6
+
+Vehicle: 13 has status: being stripped for parts and thrown away.
+type: 2 vehicle
+Repair Time: 35
+
+Vehicle: 14 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 7
+
+Vehicle: 15 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 62
+
+---------------------------------------------------
+Vehicle: 16 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 32
+
+Vehicle: 17 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 14
+
+Vehicle: 18 has status: being stripped for parts and thrown away.
+type: 0 vehicle
+Repair Time: 6
+
+Vehicle: 19 has status: being stripped for parts and thrown away.
+type: 4 vehicle
+Repair Time: 42
+
+Vehicle: 20 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 3
+
+Vehicle: 21 has status: being stripped for parts and thrown away.
+type: 4 vehicle
+Repair Time: 42
+
+Vehicle: 22 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 23
+
+Vehicle: 23 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 3
+
+Vehicle: 24 has status: being stripped for parts and thrown away.
+type: 3 vehicle
+Repair Time: 75
+
+Vehicle: 25 has status: being stripped for parts and thrown away.
+type: 3 vehicle
+Repair Time: 75
+
+Vehicle: 26 has status: being stripped for parts and thrown away.
+type: 3 vehicle
+Repair Time: 75
+
+Vehicle: 27 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 24
+
+Vehicle: 28 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 2
+
+Vehicle: 29 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 4
+
+---------------------------------------------------
+Vehicle: 28 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 2
+
+vehicle is off to be tested
+This is the vehicle in the bay: 
+
+id of bay 1
+Vehicle: 28 has status: testing
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 28 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 28 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 30 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 3
+
+Vehicle: 31 has status: in waiting list for part
+type: 0 vehicle
+Repair Time: 4
+
+Vehicle: 32 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 27
+
+Vehicle: 33 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 3
+
+Vehicle: 34 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 3
+
+Vehicle: 35 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 17
+
+Vehicle: 36 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 24
+
+Vehicle: 37 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 4
+
+Vehicle: 38 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 21
+
+Vehicle: 39 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 7
+
+Vehicle: 40 has status: being stripped for parts and thrown away.
+type: 4 vehicle
+Repair Time: 42
+
+Vehicle: 41 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 7
+
+Vehicle: 42 has status: being stripped for parts and thrown away.
+type: 1 vehicle
+Repair Time: 20
+
+Vehicle: 43 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 2
+
+Vehicle: 44 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 30
+
+---------------------------------------------------
+Vehicle: 43 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 2
+
+Vehicle: 34 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 3
+
+Vehicle: 33 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 3
+
+Vehicle: 43 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 43 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+vehicle is off to be tested
+This is the vehicle in the bay: 
+
+id of bay 2
+Vehicle: 34 has status: testing
+type: 0 vehicle
+Repair Time: 0
+
+vehicle is off to be tested
+This is the vehicle in the bay: 
+
+id of bay 3
+Vehicle: 33 has status: testing
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 34 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 34 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 33 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 33 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 45 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 10
+
+Vehicle: 46 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 3
+
+Vehicle: 47 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 3
+
+Vehicle: 48 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 22
+
+Vehicle: 49 has status: being stripped for parts and thrown away.
+type: 4 vehicle
+Repair Time: 42
+
+Vehicle: 50 has status: in waiting list for part
+type: 0 vehicle
+Repair Time: 4
+
+Vehicle: 51 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 1
+
+Vehicle: 52 has status: being stripped for parts and thrown away.
+type: 2 vehicle
+Repair Time: 35
+
+Vehicle: 53 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 41
+
+Vehicle: 54 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 13
+
+Vehicle: 55 has status: In RepairQueue
+type: 1 vehicle
+Repair Time: 2
+
+Vehicle: 56 has status: being stripped for parts and thrown away.
+type: 2 vehicle
+Repair Time: 35
+
+Vehicle: 57 has status: being stripped for parts and thrown away.
+type: 4 vehicle
+Repair Time: 42
+
+Vehicle: 58 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 20
+
+---------------------------------------------------
+---------------------------------------------------
+day: 4
+Vehicle: 51 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 1
+
+Vehicle: 55 has status: in repair - repair bay
+type: 1 vehicle
+Repair Time: 2
+
+Vehicle: 47 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 3
+
+Vehicle: 51 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 51 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 46 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 3
+
+Vehicle: 55 has status: Vehicle is fixed and being deployed
+type: 1 vehicle
+Repair Time: 0
+
+Vehicle: 55 has status: vehicle complete.. Being deployed 
+type: 1 vehicle
+Repair Time: 0
+
+Vehicle: 47 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 47 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 46 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 46 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 59 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 15
+
+Vehicle: 60 has status: in waiting list for part
+type: 0 vehicle
+Repair Time: 3
+
+Vehicle: 61 has status: in waiting list for part
+type: 0 vehicle
+Repair Time: 4
+
+Vehicle: 62 has status: in waiting list for part
+type: 0 vehicle
+Repair Time: 5
+
+Vehicle: 63 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 19
+
+Vehicle: 64 has status: being stripped for parts and thrown away.
+type: 0 vehicle
+Repair Time: 6
+
+Vehicle: 65 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 11
+
+Vehicle: 66 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 3
+
+Vehicle: 67 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 13
+
+Vehicle: 68 has status: In RepairQueue
+type: 4 vehicle
+Repair Time: 5
+
+Vehicle: 69 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 18
+
+Vehicle: 70 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 36
+
+Vehicle: 71 has status: in waiting list for part
+type: 0 vehicle
+Repair Time: 3
+
+Vehicle: 72 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 5
+
+Vehicle: 73 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 1
+
+Vehicle: 74 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 12
+
+---------------------------------------------------
+---------------------------------------------------
+day: 5
+Vehicle: 73 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 1
+
+Vehicle: 66 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 3
+
+Vehicle: 68 has status: in repair - repair bay
+type: 4 vehicle
+Repair Time: 5
+
+Vehicle: 73 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 73 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 72 has status: in repair - repair bay
+type: 2 vehicle
+Repair Time: 5
+
+Vehicle: 66 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 66 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 68 has status: Vehicle is fixed and being deployed
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 68 has status: vehicle complete.. Being deployed 
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 72 has status: Vehicle is fixed and being deployed
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 72 has status: vehicle complete.. Being deployed 
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 75 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 8
+
+Vehicle: 76 has status: being stripped for parts and thrown away.
+type: 1 vehicle
+Repair Time: 20
+
+Vehicle: 77 has status: in waiting list for part
+type: 0 vehicle
+Repair Time: 5
+
+Vehicle: 78 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 29
+
+Vehicle: 79 has status: In RepairQueue
+type: 3 vehicle
+Repair Time: 11
+
+---------------------------------------------------
+---------------------------------------------------
+day: 6
+Vehicle: 79 has status: in repair - repair bay
+type: 3 vehicle
+Repair Time: 11
+
+Vehicle: 79 has status: Vehicle is fixed and being deployed
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 79 has status: vehicle complete.. Being deployed 
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 80 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 1
+
+Vehicle: 81 has status: In RepairQueue
+type: 3 vehicle
+Repair Time: 15
+
+Vehicle: 82 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 13
+
+Vehicle: 83 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 14
+
+Vehicle: 84 has status: In RepairQueue
+type: 4 vehicle
+Repair Time: 2
+
+Vehicle: 85 has status: being stripped for parts and thrown away.
+type: 0 vehicle
+Repair Time: 6
+
+Vehicle: 86 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 16
+
+Vehicle: 87 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 48
+
+---------------------------------------------------
+---------------------------------------------------
+day: 7
+Vehicle: 80 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 1
+
+Vehicle: 84 has status: in repair - repair bay
+type: 4 vehicle
+Repair Time: 2
+
+Vehicle: 81 has status: in repair - repair bay
+type: 3 vehicle
+Repair Time: 15
+
+Vehicle: 80 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 80 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 84 has status: Vehicle is fixed and being deployed
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 84 has status: vehicle complete.. Being deployed 
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 81 has status: Vehicle is fixed and being deployed
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 81 has status: vehicle complete.. Being deployed 
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 88 has status: being stripped for parts and thrown away.
+type: 1 vehicle
+Repair Time: 20
+
+Vehicle: 89 has status: being stripped for parts and thrown away.
+type: 0 vehicle
+Repair Time: 6
+
+Vehicle: 90 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 1
+
+Vehicle: 91 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 2
+
+Vehicle: 92 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 4
+
+---------------------------------------------------
+---------------------------------------------------
+day: 8
+Vehicle: 90 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 1
+
+Vehicle: 91 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 2
+
+Vehicle: 90 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 90 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 91 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 91 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 93 has status: In RepairQueue
+type: 4 vehicle
+Repair Time: 7
+
+Vehicle: 94 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 50
+
+Vehicle: 95 has status: being stripped for parts and thrown away.
+type: 4 vehicle
+Repair Time: 42
+
+Vehicle: 96 has status: In RepairQueue
+type: 3 vehicle
+Repair Time: 40
+
+Vehicle: 97 has status: being stripped for parts and thrown away.
+type: 3 vehicle
+Repair Time: 75
+
+---------------------------------------------------
+---------------------------------------------------
+day: 9
+Vehicle: 93 has status: in repair - repair bay
+type: 4 vehicle
+Repair Time: 7
+
+Vehicle: 96 has status: in repair - repair bay
+type: 3 vehicle
+Repair Time: 40
+
+Vehicle: 93 has status: Vehicle is fixed and being deployed
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 93 has status: vehicle complete.. Being deployed 
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 98 has status: In RepairQueue
+type: 4 vehicle
+Repair Time: 2
+
+Vehicle: 99 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 2
+
+Vehicle: 100 has status: being stripped for parts and thrown away.
+type: 0 vehicle
+Repair Time: 6
+
+Vehicle: 101 has status: In RepairQueue
+type: 3 vehicle
+Repair Time: 51
+
+Vehicle: 102 has status: In RepairQueue
+type: 4 vehicle
+Repair Time: 27
+
+Vehicle: 103 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 13
+
+Vehicle: 104 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 52
+
+Vehicle: 105 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 18
+
+Vehicle: 106 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 4
+
+---------------------------------------------------
+---------------------------------------------------
+day: 10
+Vehicle: 98 has status: in repair - repair bay
+type: 4 vehicle
+Repair Time: 2
+
+Vehicle: 99 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 2
+
+Vehicle: 98 has status: Vehicle is fixed and being deployed
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 98 has status: vehicle complete.. Being deployed 
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 99 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 99 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 105 has status: in repair - repair bay
+type: 2 vehicle
+Repair Time: 18
+
+Vehicle: 102 has status: in repair - repair bay
+type: 4 vehicle
+Repair Time: 27
+
+Vehicle: 96 has status: Vehicle is fixed and being deployed
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 96 has status: vehicle complete.. Being deployed 
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 101 has status: in repair - repair bay
+type: 3 vehicle
+Repair Time: 51
+
+Vehicle: 105 has status: Vehicle is fixed and being deployed
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 105 has status: vehicle complete.. Being deployed 
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 107 has status: In RepairQueue
+type: 1 vehicle
+Repair Time: 2
+
+Vehicle: 108 has status: being stripped for parts and thrown away.
+type: 2 vehicle
+Repair Time: 35
+
+Vehicle: 109 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 26
+
+Vehicle: 110 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 54
+
+Vehicle: 111 has status: being stripped for parts and thrown away.
+type: 2 vehicle
+Repair Time: 35
+
+Vehicle: 112 has status: being stripped for parts and thrown away.
+type: 4 vehicle
+Repair Time: 42
+
+Vehicle: 113 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 14
+
+Vehicle: 114 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 15
+
+Vehicle: 115 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 4
+
+Vehicle: 116 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 30
+
+---------------------------------------------------
+---------------------------------------------------
+day: 11
+Vehicle: 107 has status: in repair - repair bay
+type: 1 vehicle
+Repair Time: 2
+
+Vehicle: 107 has status: Vehicle is fixed and being deployed
+type: 1 vehicle
+Repair Time: 0
+
+Vehicle: 107 has status: vehicle complete.. Being deployed 
+type: 1 vehicle
+Repair Time: 0
+
+Vehicle: 115 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 4
+
+Vehicle: 102 has status: Vehicle is fixed and being deployed
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 102 has status: vehicle complete.. Being deployed 
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 113 has status: in repair - repair bay
+type: 2 vehicle
+Repair Time: 14
+
+Vehicle: 115 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 115 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 114 has status: in repair - repair bay
+type: 2 vehicle
+Repair Time: 15
+
+Vehicle: 113 has status: Vehicle is fixed and being deployed
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 113 has status: vehicle complete.. Being deployed 
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 114 has status: Vehicle is fixed and being deployed
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 114 has status: vehicle complete.. Being deployed 
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 117 has status: In RepairQueue
+type: 1 vehicle
+Repair Time: 2
+
+Vehicle: 118 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 10
+
+Vehicle: 119 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 13
+
+Vehicle: 120 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 4
+
+Vehicle: 121 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 24
+
+Vehicle: 122 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 2
+
+Vehicle: 123 has status: In RepairQueue
+type: 4 vehicle
+Repair Time: 8
+
+Vehicle: 124 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 20
+
+Vehicle: 125 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 9
+
+Vehicle: 126 has status: being stripped for parts and thrown away.
+type: 2 vehicle
+Repair Time: 35
+
+---------------------------------------------------
+---------------------------------------------------
+day: 12
+Vehicle: 117 has status: in repair - repair bay
+type: 1 vehicle
+Repair Time: 2
+
+Vehicle: 122 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 2
+
+Vehicle: 117 has status: Vehicle is fixed and being deployed
+type: 1 vehicle
+Repair Time: 0
+
+Vehicle: 117 has status: vehicle complete.. Being deployed 
+type: 1 vehicle
+Repair Time: 0
+
+Vehicle: 122 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 122 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 120 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 4
+
+Vehicle: 123 has status: in repair - repair bay
+type: 4 vehicle
+Repair Time: 8
+
+Vehicle: 120 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 120 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 123 has status: Vehicle is fixed and being deployed
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 123 has status: vehicle complete.. Being deployed 
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 101 has status: Vehicle is fixed and being deployed
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 101 has status: vehicle complete.. Being deployed 
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 127 has status: being stripped for parts and thrown away.
+type: 0 vehicle
+Repair Time: 6
+
+Vehicle: 128 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 21
+
+Vehicle: 129 has status: In RepairQueue
+type: 1 vehicle
+Repair Time: 2
+
+Vehicle: 130 has status: In RepairQueue
+type: 4 vehicle
+Repair Time: 14
+
+Vehicle: 131 has status: In RepairQueue
+type: 4 vehicle
+Repair Time: 11
+
+Vehicle: 132 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 21
+
+Vehicle: 133 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 32
+
+Vehicle: 134 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 15
+
+Vehicle: 135 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 20
+
+Vehicle: 136 has status: being stripped for parts and thrown away.
+type: 3 vehicle
+Repair Time: 75
+
+Vehicle: 137 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 25
+
+Vehicle: 138 has status: being stripped for parts and thrown away.
+type: 3 vehicle
+Repair Time: 75
+
+Vehicle: 139 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 40
+
+---------------------------------------------------
+---------------------------------------------------
+day: 13
+Vehicle: 129 has status: in repair - repair bay
+type: 1 vehicle
+Repair Time: 2
+
+Vehicle: 131 has status: in repair - repair bay
+type: 4 vehicle
+Repair Time: 11
+
+Vehicle: 130 has status: in repair - repair bay
+type: 4 vehicle
+Repair Time: 14
+
+Vehicle: 129 has status: Vehicle is fixed and being deployed
+type: 1 vehicle
+Repair Time: 0
+
+Vehicle: 129 has status: vehicle complete.. Being deployed 
+type: 1 vehicle
+Repair Time: 0
+
+Vehicle: 134 has status: in repair - repair bay
+type: 2 vehicle
+Repair Time: 15
+
+Vehicle: 131 has status: Vehicle is fixed and being deployed
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 131 has status: vehicle complete.. Being deployed 
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 128 has status: in repair - repair bay
+type: 2 vehicle
+Repair Time: 21
+
+Vehicle: 130 has status: Vehicle is fixed and being deployed
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 130 has status: vehicle complete.. Being deployed 
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 134 has status: Vehicle is fixed and being deployed
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 134 has status: vehicle complete.. Being deployed 
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 140 has status: being stripped for parts and thrown away.
+type: 1 vehicle
+Repair Time: 20
+
+Vehicle: 141 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 3
+
+Vehicle: 142 has status: In RepairQueue
+type: 4 vehicle
+Repair Time: 7
+
+Vehicle: 143 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 14
+
+Vehicle: 144 has status: being stripped for parts and thrown away.
+type: 0 vehicle
+Repair Time: 6
+
+Vehicle: 145 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 39
+
+---------------------------------------------------
+---------------------------------------------------
+day: 14
+Vehicle: 141 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 3
+
+Vehicle: 142 has status: in repair - repair bay
+type: 4 vehicle
+Repair Time: 7
+
+Vehicle: 141 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 141 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 128 has status: Vehicle is fixed and being deployed
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 128 has status: vehicle complete.. Being deployed 
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 142 has status: Vehicle is fixed and being deployed
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 142 has status: vehicle complete.. Being deployed 
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 146 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 50
+
+Vehicle: 147 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 24
+
+Vehicle: 148 has status: In RepairQueue
+type: 4 vehicle
+Repair Time: 14
+
+Vehicle: 149 has status: being stripped for parts and thrown away.
+type: 3 vehicle
+Repair Time: 75
+
+Vehicle: 150 has status: being stripped for parts and thrown away.
+type: 0 vehicle
+Repair Time: 6
+
+Vehicle: 151 has status: being stripped for parts and thrown away.
+type: 3 vehicle
+Repair Time: 75
+
+Vehicle: 152 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 9
+
+Vehicle: 153 has status: being stripped for parts and thrown away.
+type: 1 vehicle
+Repair Time: 20
+
+Vehicle: 154 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 3
+
+Vehicle: 155 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 18
+
+---------------------------------------------------
+---------------------------------------------------
+day: 15
+Vehicle: 154 has status: in repair - repair bay
+type: 2 vehicle
+Repair Time: 3
+
+Vehicle: 148 has status: in repair - repair bay
+type: 4 vehicle
+Repair Time: 14
+
+Vehicle: 155 has status: in repair - repair bay
+type: 2 vehicle
+Repair Time: 18
+
+Vehicle: 154 has status: Vehicle is fixed and being deployed
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 154 has status: vehicle complete.. Being deployed 
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 148 has status: Vehicle is fixed and being deployed
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 148 has status: vehicle complete.. Being deployed 
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 155 has status: Vehicle is fixed and being deployed
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 155 has status: vehicle complete.. Being deployed 
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 156 has status: In RepairQueue
+type: 4 vehicle
+Repair Time: 5
+
+Vehicle: 157 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 4
+
+Vehicle: 158 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 28
+
+Vehicle: 159 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 24
+
+Vehicle: 160 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 28
+
+---------------------------------------------------
+---------------------------------------------------
+day: 16
+Vehicle: 156 has status: in repair - repair bay
+type: 4 vehicle
+Repair Time: 5
+
+Vehicle: 156 has status: Vehicle is fixed and being deployed
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 156 has status: vehicle complete.. Being deployed 
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 161 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 31
+
+Vehicle: 162 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 8
+
+Vehicle: 163 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 36
+
+Vehicle: 164 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 9
+
+Vehicle: 165 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 5
+
+Vehicle: 166 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 35
+
+Vehicle: 167 has status: being stripped for parts and thrown away.
+type: 2 vehicle
+Repair Time: 35
+
+Vehicle: 168 has status: In RepairQueue
+type: 4 vehicle
+Repair Time: 20
+
+---------------------------------------------------
+---------------------------------------------------
+day: 17
+Vehicle: 165 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 5
+
+Vehicle: 168 has status: in repair - repair bay
+type: 4 vehicle
+Repair Time: 20
+
+Vehicle: 165 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 165 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 168 has status: Vehicle is fixed and being deployed
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 168 has status: vehicle complete.. Being deployed 
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 169 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 26
+
+Vehicle: 170 has status: being stripped for parts and thrown away.
+type: 2 vehicle
+Repair Time: 35
+
+Vehicle: 171 has status: In RepairQueue
+type: 3 vehicle
+Repair Time: 62
+
+Vehicle: 172 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 29
+
+Vehicle: 173 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 5
+
+Vehicle: 174 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 1
+
+Vehicle: 175 has status: being stripped for parts and thrown away.
+type: 2 vehicle
+Repair Time: 35
+
+Vehicle: 176 has status: In RepairQueue
+type: 4 vehicle
+Repair Time: 10
+
+Vehicle: 177 has status: In RepairQueue
+type: 4 vehicle
+Repair Time: 4
+
+Vehicle: 178 has status: being stripped for parts and thrown away.
+type: 4 vehicle
+Repair Time: 42
+
+---------------------------------------------------
+---------------------------------------------------
+day: 18
+Vehicle: 174 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 1
+
+Vehicle: 177 has status: in repair - repair bay
+type: 4 vehicle
+Repair Time: 4
+
+Vehicle: 173 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 5
+
+Vehicle: 174 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 174 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 176 has status: in repair - repair bay
+type: 4 vehicle
+Repair Time: 10
+
+Vehicle: 177 has status: Vehicle is fixed and being deployed
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 177 has status: vehicle complete.. Being deployed 
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 169 has status: in repair - repair bay
+type: 2 vehicle
+Repair Time: 26
+
+Vehicle: 173 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 173 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 171 has status: in repair - repair bay
+type: 3 vehicle
+Repair Time: 62
+
+Vehicle: 176 has status: Vehicle is fixed and being deployed
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 176 has status: vehicle complete.. Being deployed 
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 179 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 30
+
+Vehicle: 180 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 13
+
+Vehicle: 181 has status: In RepairQueue
+type: 1 vehicle
+Repair Time: 6
+
+Vehicle: 182 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 27
+
+Vehicle: 183 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 5
+
+Vehicle: 184 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 21
+
+Vehicle: 185 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 28
+
+Vehicle: 186 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 18
+
+Vehicle: 187 has status: being stripped for parts and thrown away.
+type: 2 vehicle
+Repair Time: 35
+
+Vehicle: 188 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 3
+
+Vehicle: 189 has status: being stripped for parts and thrown away.
+type: 1 vehicle
+Repair Time: 20
+
+Vehicle: 190 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 8
+
+Vehicle: 191 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 41
+
+Vehicle: 192 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 24
+
+---------------------------------------------------
+---------------------------------------------------
+day: 19
+Vehicle: 188 has status: in repair - repair bay
+type: 2 vehicle
+Repair Time: 3
+
+Vehicle: 188 has status: Vehicle is fixed and being deployed
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 188 has status: vehicle complete.. Being deployed 
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 183 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 5
+
+Vehicle: 169 has status: Vehicle is fixed and being deployed
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 169 has status: vehicle complete.. Being deployed 
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 181 has status: in repair - repair bay
+type: 1 vehicle
+Repair Time: 6
+
+Vehicle: 183 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 183 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 186 has status: in repair - repair bay
+type: 2 vehicle
+Repair Time: 18
+
+Vehicle: 181 has status: Vehicle is fixed and being deployed
+type: 1 vehicle
+Repair Time: 0
+
+Vehicle: 181 has status: vehicle complete.. Being deployed 
+type: 1 vehicle
+Repair Time: 0
+
+Vehicle: 193 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 30
+
+Vehicle: 194 has status: being stripped for parts and thrown away.
+type: 2 vehicle
+Repair Time: 35
+
+Vehicle: 195 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 4
+
+Vehicle: 196 has status: being stripped for parts and thrown away.
+type: 0 vehicle
+Repair Time: 6
+
+Vehicle: 197 has status: In RepairQueue
+type: 3 vehicle
+Repair Time: 29
+
+Vehicle: 198 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 35
+
+Vehicle: 199 has status: being stripped for parts and thrown away.
+type: 2 vehicle
+Repair Time: 35
+
+Vehicle: 200 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 10
+
+Vehicle: 201 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 49
+
+---------------------------------------------------
+---------------------------------------------------
+day: 20
+Vehicle: 197 has status: in repair - repair bay
+type: 3 vehicle
+Repair Time: 29
+
+Vehicle: 186 has status: Vehicle is fixed and being deployed
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 186 has status: vehicle complete.. Being deployed 
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 171 has status: Vehicle is fixed and being deployed
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 171 has status: vehicle complete.. Being deployed 
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 202 has status: In RepairQueue
+type: 3 vehicle
+Repair Time: 11
+
+Vehicle: 203 has status: In RepairQueue
+type: 3 vehicle
+Repair Time: 25
+
+Vehicle: 204 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 3
+
+Vehicle: 205 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 14
+
+Vehicle: 206 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 50
+
+Vehicle: 207 has status: In RepairQueue
+type: 1 vehicle
+Repair Time: 2
+
+Vehicle: 208 has status: in waiting list for part
+type: 2 vehicle
+Repair Time: 32
+
+Vehicle: 209 has status: being stripped for parts and thrown away.
+type: 0 vehicle
+Repair Time: 6
+
+Vehicle: 210 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 1
+
+Vehicle: 211 has status: In RepairQueue
+type: 0 vehicle
+Repair Time: 4
+
+---------------------------------------------------
+---------------------------------------------------
+day: 21
+Vehicle: 210 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 1
+
+Vehicle: 207 has status: in repair - repair bay
+type: 1 vehicle
+Repair Time: 2
+
+Vehicle: 210 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 210 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 204 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 3
+
+Vehicle: 207 has status: Vehicle is fixed and being deployed
+type: 1 vehicle
+Repair Time: 0
+
+Vehicle: 207 has status: vehicle complete.. Being deployed 
+type: 1 vehicle
+Repair Time: 0
+
+Vehicle: 211 has status: in repair - repair bay
+type: 0 vehicle
+Repair Time: 4
+
+Vehicle: 204 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 204 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 197 has status: Vehicle is fixed and being deployed
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 197 has status: vehicle complete.. Being deployed 
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 202 has status: in repair - repair bay
+type: 3 vehicle
+Repair Time: 11
+
+Vehicle: 203 has status: in repair - repair bay
+type: 3 vehicle
+Repair Time: 25
+
+Vehicle: 211 has status: Vehicle is fixed and being deployed
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 211 has status: vehicle complete.. Being deployed 
+type: 0 vehicle
+Repair Time: 0
+
+Vehicle: 202 has status: Vehicle is fixed and being deployed
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 202 has status: vehicle complete.. Being deployed 
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 212 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 31
+
+Vehicle: 213 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 14
+
+Vehicle: 214 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 16
+
+Vehicle: 215 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 35
+
+Vehicle: 216 has status: In RepairQueue
+type: 4 vehicle
+Repair Time: 5
+
+Vehicle: 217 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 32
+
+Vehicle: 218 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 12
+
+Vehicle: 219 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 12
+
+Vehicle: 220 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 12
+
+Vehicle: 221 has status: being stripped for parts and thrown away.
+type: 0 vehicle
+Repair Time: 6
+
+---------------------------------------------------
+---------------------------------------------------
+day: 22
+Vehicle: 216 has status: in repair - repair bay
+type: 4 vehicle
+Repair Time: 5
+
+Vehicle: 218 has status: in repair - repair bay
+type: 2 vehicle
+Repair Time: 12
+
+Vehicle: 203 has status: Vehicle is fixed and being deployed
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 203 has status: vehicle complete.. Being deployed 
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 213 has status: in repair - repair bay
+type: 2 vehicle
+Repair Time: 14
+
+Vehicle: 216 has status: Vehicle is fixed and being deployed
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 216 has status: vehicle complete.. Being deployed 
+type: 4 vehicle
+Repair Time: 0
+
+Vehicle: 217 has status: in repair - repair bay
+type: 2 vehicle
+Repair Time: 32
+
+Vehicle: 218 has status: Vehicle is fixed and being deployed
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 218 has status: vehicle complete.. Being deployed 
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 213 has status: Vehicle is fixed and being deployed
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 213 has status: vehicle complete.. Being deployed 
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 222 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 14
+
+Vehicle: 223 has status: being stripped for parts and thrown away.
+type: 0 vehicle
+Repair Time: 6
+
+Vehicle: 224 has status: In RepairQueue
+type: 3 vehicle
+Repair Time: 11
+
+Vehicle: 225 has status: in waiting list for part
+type: 4 vehicle
+Repair Time: 17
+
+Vehicle: 226 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 16
+
+Vehicle: 227 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 16
+
+Vehicle: 228 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 18
+
+---------------------------------------------------
+---------------------------------------------------
+day: 23
+Vehicle: 224 has status: in repair - repair bay
+type: 3 vehicle
+Repair Time: 11
+
+Vehicle: 226 has status: in repair - repair bay
+type: 2 vehicle
+Repair Time: 16
+
+Vehicle: 224 has status: Vehicle is fixed and being deployed
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 224 has status: vehicle complete.. Being deployed 
+type: 3 vehicle
+Repair Time: 0
+
+Vehicle: 227 has status: in repair - repair bay
+type: 2 vehicle
+Repair Time: 16
+
+Vehicle: 217 has status: Vehicle is fixed and being deployed
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 217 has status: vehicle complete.. Being deployed 
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 226 has status: Vehicle is fixed and being deployed
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 226 has status: vehicle complete.. Being deployed 
+type: 2 vehicle
+Repair Time: 0
+
+Vehicle: 229 has status: being stripped for parts and thrown away.
+type: 1 vehicle
+Repair Time: 20
+
+Vehicle: 230 has status: being stripped for parts and thrown away.
+type: 2 vehicle
+Repair Time: 35
+
+Vehicle: 231 has status: In RepairQueue
+type: 4 vehicle
+Repair Time: 11
+
+Vehicle: 232 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 20
+
+Vehicle: 233 has status: in waiting list for part
+type: 1 vehicle
+Repair Time: 14
+
+Vehicle: 234 has status: In RepairQueue
+type: 2 vehicle
+Repair Time: 16
+
+Vehicle: 235 has status: being stripped for parts and thrown away.
+type: 2 vehicle
+Repair Time: 35
+
+Vehicle: 236 has status: in waiting list for part
+type: 3 vehicle
+Repair Time: 48
+

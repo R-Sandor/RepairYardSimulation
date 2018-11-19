@@ -1,0 +1,9 @@
+repairBay.o: repairBay.cpp repairBay.h inventory.h vehicle.h
+main.o: main.cpp vehicle.h inventory.h repairYard.h repairBay.h \
+ yardMaster.h
+inventory.o: inventory.cpp inventory.h vehicle.h
+yardMaster.o: yardMaster.cpp yardMaster.h vehicle.h repairBay.h \
+ inventory.h repairYard.h
+repairYard.o: repairYard.cpp repairYard.h repairBay.h inventory.h \
+ vehicle.h
+vehicle.o: vehicle.cpp vehicle.h
